@@ -12,6 +12,6 @@ Learned about the conceptual underpinning of embeddings and vector databases and
 
 3. Day 3. **Gen AI Agents**
 
-Agents consist of 3 things: Model, Tools & Orchestrtaion. Learned about 3 types of tools: Extensions, Functions & Data Stores. Learned how to build sophisticated AI agents by understanding their core components and the iterative development process. The code labs covered how to connect LLMs to existing systems and to the real world. Learned about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
+Agents consist of 3 things: Model, Tools & Orchestrtaion. Learned about 3 types of tools: Extensions, Functions & Data Stores. Learned how to build sophisticated AI agents by understanding their core components and the iterative development process. The code labs covered how to connect LLMs to existing systems and to the real world. Learned about function calling by giving SQL tools to a chatbot, and learned how to build a LangGraph agent that takes orders in a café.
 
 4. Day 4.
